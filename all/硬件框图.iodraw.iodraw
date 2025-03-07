@@ -43,10 +43,10 @@
             <mxPoint x="-3" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LBYqW2CV_Aa5ba4jnHsW-3" value="充电输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LBYqW2CV_Aa5ba4jnHsW-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;充电输出&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LBYqW2CV_Aa5ba4jnHsW-7" value="设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LBYqW2CV_Aa5ba4jnHsW-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;设备&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LBYqW2CV_Aa5ba4jnHsW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LBYqW2CV_Aa5ba4jnHsW-9" target="LBYqW2CV_Aa5ba4jnHsW-1">
