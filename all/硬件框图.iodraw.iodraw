@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="P0YXEb1VBvUbDQVJsmPz">
-    <mxGraphModel dx="893" dy="519" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="625" dy="364" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,8 +35,15 @@
         <mxCell id="LBYqW2CV_Aa5ba4jnHsW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LBYqW2CV_Aa5ba4jnHsW-3" target="LBYqW2CV_Aa5ba4jnHsW-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LBYqW2CV_Aa5ba4jnHsW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LBYqW2CV_Aa5ba4jnHsW-3" target="LBYqW2CV_Aa5ba4jnHsW-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LBYqW2CV_Aa5ba4jnHsW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="516" y="440" as="sourcePoint" />
+            <mxPoint x="396" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="516" y="366" />
+              <mxPoint x="396" y="366" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LBYqW2CV_Aa5ba4jnHsW-26" value="参数采集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LBYqW2CV_Aa5ba4jnHsW-16" vertex="1" connectable="0">
           <mxGeometry x="0.37" y="-2" relative="1" as="geometry">
