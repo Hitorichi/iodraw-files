@@ -116,6 +116,9 @@
         <mxCell id="LXmcJuDOMuFgKuVEHxaO-2" value="其他外设" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="405" y="264" width="18" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LXmcJuDOMuFgKuVEHxaO-3" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="402" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
