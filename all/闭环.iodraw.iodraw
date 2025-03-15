@@ -32,7 +32,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3uWYnaiUh9LiA4RKkCZ2-15" value="控制MOS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3uWYnaiUh9LiA4RKkCZ2-8">
+        <mxCell id="3uWYnaiUh9LiA4RKkCZ2-15" value="控制MOS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textDirection=vertical-lr;" vertex="1" connectable="0" parent="3uWYnaiUh9LiA4RKkCZ2-8">
           <mxGeometry x="0.4111" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
