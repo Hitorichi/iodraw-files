@@ -11,7 +11,7 @@
           <mxGeometry x="70" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3uWYnaiUh9LiA4RKkCZ2-2" value="Buck电路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3uWYnaiUh9LiA4RKkCZ2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3uWYnaiUh9LiA4RKkCZ2-4" target="3uWYnaiUh9LiA4RKkCZ2-2">
           <mxGeometry relative="1" as="geometry" />
@@ -20,7 +20,10 @@
           <mxGeometry x="250" y="230" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3uWYnaiUh9LiA4RKkCZ2-7" value="窗口比较器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3uWYnaiUh9LiA4RKkCZ2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3uWYnaiUh9LiA4RKkCZ2-7" target="3uWYnaiUh9LiA4RKkCZ2-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
