@@ -4,11 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3uWYnaiUh9LiA4RKkCZ2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3uWYnaiUh9LiA4RKkCZ2-1" target="3uWYnaiUh9LiA4RKkCZ2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3uWYnaiUh9LiA4RKkCZ2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3uWYnaiUh9LiA4RKkCZ2-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3uWYnaiUh9LiA4RKkCZ2-2" value="Buck电路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3uWYnaiUh9LiA4RKkCZ2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3uWYnaiUh9LiA4RKkCZ2-4" target="3uWYnaiUh9LiA4RKkCZ2-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3uWYnaiUh9LiA4RKkCZ2-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="1">
           <mxGeometry x="250" y="230" width="20" height="20" as="geometry" />
