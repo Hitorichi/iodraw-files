@@ -64,9 +64,10 @@
         <mxCell id="ZryiTWu_o1j_zyml5HKw-8" value="&lt;h3&gt;按键3是否被按下&lt;/h3&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="317" y="700" width="166" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZryiTWu_o1j_zyml5HKw-14">
+        <mxCell id="ZryiTWu_o1j_zyml5HKw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="330" as="targetPoint" />
+            <mxPoint x="230" y="365" as="targetPoint" />
+            <mxPoint x="290" y="805" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZryiTWu_o1j_zyml5HKw-14" value="&lt;h3&gt;OLED显示刷新&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
