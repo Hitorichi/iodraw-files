@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="33YhauujNE12q94bpN_K">
-    <mxGraphModel dx="888" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1295" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,6 +63,11 @@
         </mxCell>
         <mxCell id="ZryiTWu_o1j_zyml5HKw-8" value="&lt;h3&gt;按键3是否被按下&lt;/h3&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="317" y="700" width="166" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZryiTWu_o1j_zyml5HKw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZryiTWu_o1j_zyml5HKw-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="330.0000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZryiTWu_o1j_zyml5HKw-14" value="&lt;h3&gt;OLED显示刷新&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="820" width="120" height="60" as="geometry" />
