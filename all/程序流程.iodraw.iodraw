@@ -31,10 +31,16 @@
         <mxCell id="ZryiTWu_o1j_zyml5HKw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZryiTWu_o1j_zyml5HKw-7" target="ZryiTWu_o1j_zyml5HKw-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZryiTWu_o1j_zyml5HKw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZryiTWu_o1j_zyml5HKw-7" target="ZryiTWu_o1j_zyml5HKw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZryiTWu_o1j_zyml5HKw-7" value="&lt;h3&gt;按键2是否被按下&lt;/h3&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="317" y="585" width="166" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZryiTWu_o1j_zyml5HKw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZryiTWu_o1j_zyml5HKw-8" target="ZryiTWu_o1j_zyml5HKw-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZryiTWu_o1j_zyml5HKw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZryiTWu_o1j_zyml5HKw-8" target="ZryiTWu_o1j_zyml5HKw-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZryiTWu_o1j_zyml5HKw-8" value="&lt;h3&gt;按键3是否被按下&lt;/h3&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -50,7 +56,7 @@
           <mxGeometry x="570" y="595" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZryiTWu_o1j_zyml5HKw-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
