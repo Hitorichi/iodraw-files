@@ -17,7 +17,7 @@
             <mxPoint x="400" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-40" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-180;" vertex="1" connectable="0" parent="ZryiTWu_o1j_zyml5HKw-38">
+        <mxCell id="ZryiTWu_o1j_zyml5HKw-40" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="ZryiTWu_o1j_zyml5HKw-38">
           <mxGeometry x="-0.3569" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="1" as="offset" />
           </mxGeometry>
