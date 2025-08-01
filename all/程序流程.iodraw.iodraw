@@ -15,7 +15,7 @@
         <mxCell id="ZryiTWu_o1j_zyml5HKw-33" value="逆变器是否ka" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="350" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZryiTWu_o1j_zyml5HKw-34" value="&lt;h3&gt;电压电流采样&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
