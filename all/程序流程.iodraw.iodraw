@@ -10,82 +10,54 @@
         <mxCell id="ZryiTWu_o1j_zyml5HKw-3" value="&lt;h2&gt;进入中断&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZryiTWu_o1j_zyml5HKw-4" target="ZryiTWu_o1j_zyml5HKw-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZryiTWu_o1j_zyml5HKw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZryiTWu_o1j_zyml5HKw-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZryiTWu_o1j_zyml5HKw-4" value="&lt;h2&gt;系统初始化&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZryiTWu_o1j_zyml5HKw-5" target="ZryiTWu_o1j_zyml5HKw-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-5" value="&lt;h2&gt;按键检测&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZryiTWu_o1j_zyml5HKw-6" target="ZryiTWu_o1j_zyml5HKw-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZryiTWu_o1j_zyml5HKw-6" target="ZryiTWu_o1j_zyml5HKw-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-25" value="&lt;h2&gt;是&lt;/h2&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZryiTWu_o1j_zyml5HKw-23">
-          <mxGeometry x="-0.2" y="4" relative="1" as="geometry">
-            <mxPoint y="4" as="offset" />
+        <mxCell id="ZryiTWu_o1j_zyml5HKw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="400" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-6" value="&lt;h3&gt;按键1是否被按下&lt;/h3&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="317" y="470" width="166" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZryiTWu_o1j_zyml5HKw-7" target="ZryiTWu_o1j_zyml5HKw-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZryiTWu_o1j_zyml5HKw-7" target="ZryiTWu_o1j_zyml5HKw-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-24" value="&lt;h2&gt;是&lt;/h2&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZryiTWu_o1j_zyml5HKw-22">
-          <mxGeometry x="-0.269" y="1" relative="1" as="geometry">
-            <mxPoint x="5" y="1" as="offset" />
+        <mxCell id="ZryiTWu_o1j_zyml5HKw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="550" as="sourcePoint" />
+            <mxPoint x="400" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-7" value="&lt;h3&gt;按键2是否被按下&lt;/h3&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="317" y="585" width="166" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZryiTWu_o1j_zyml5HKw-8" target="ZryiTWu_o1j_zyml5HKw-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZryiTWu_o1j_zyml5HKw-8" target="ZryiTWu_o1j_zyml5HKw-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-26" value="&lt;h2&gt;是&lt;/h2&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZryiTWu_o1j_zyml5HKw-21">
-          <mxGeometry x="-0.1232" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="ZryiTWu_o1j_zyml5HKw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="483" y="510" as="sourcePoint" />
+            <mxPoint x="570" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-8" value="&lt;h3&gt;按键3是否被按下&lt;/h3&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="317" y="700" width="166" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-14" value="&lt;h3&gt;OLED显示刷新&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="820" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-18" value="&lt;h3&gt;频率加1Hz&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="480" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-19" value="&lt;h3&gt;频率减1Hz&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="595" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-20" value="&lt;h3&gt;开启或关闭逆变器&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="710" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="850" as="sourcePoint" />
-            <mxPoint x="340" y="849.66" as="targetPoint" />
+        <mxCell id="ZryiTWu_o1j_zyml5HKw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="665" as="sourcePoint" />
+            <mxPoint x="400" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="850" as="sourcePoint" />
-            <mxPoint x="200" y="320" as="targetPoint" />
+        <mxCell id="ZryiTWu_o1j_zyml5HKw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="483" y="625" as="sourcePoint" />
+            <mxPoint x="570" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZryiTWu_o1j_zyml5HKw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="780" as="sourcePoint" />
+            <mxPoint x="400" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZryiTWu_o1j_zyml5HKw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="483" y="740" as="sourcePoint" />
+            <mxPoint x="570" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
