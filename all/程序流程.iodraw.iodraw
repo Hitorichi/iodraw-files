@@ -44,7 +44,7 @@
         </mxCell>
         <mxCell id="ZryiTWu_o1j_zyml5HKw-24" value="&lt;h2&gt;是&lt;/h2&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZryiTWu_o1j_zyml5HKw-22">
           <mxGeometry x="-0.269" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="5" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZryiTWu_o1j_zyml5HKw-7" value="&lt;h3&gt;按键2是否被按下&lt;/h3&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -73,7 +73,7 @@
         <mxCell id="ZryiTWu_o1j_zyml5HKw-19" value="&lt;h3&gt;频率减1Hz&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="595" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZryiTWu_o1j_zyml5HKw-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZryiTWu_o1j_zyml5HKw-20" value="&lt;h3&gt;开启或关闭逆变器&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
