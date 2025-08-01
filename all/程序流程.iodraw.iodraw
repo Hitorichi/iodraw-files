@@ -10,6 +10,9 @@
         <mxCell id="ZryiTWu_o1j_zyml5HKw-3" value="&lt;h2&gt;开始&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZryiTWu_o1j_zyml5HKw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZryiTWu_o1j_zyml5HKw-4" target="ZryiTWu_o1j_zyml5HKw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZryiTWu_o1j_zyml5HKw-4" value="&lt;h2&gt;系统初始化&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
         </mxCell>
